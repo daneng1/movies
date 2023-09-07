@@ -2,7 +2,7 @@
 //  moviesApp.swift
 //  movies
 //
-//  Created by Dan and Beth Engel on 9/6/23.
+//  Created by Dan Engel on 9/6/23.
 //
 
 import SwiftUI

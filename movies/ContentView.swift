@@ -2,20 +2,14 @@
 //  ContentView.swift
 //  movies
 //
-//  Created by Dan and Beth Engel on 9/6/23.
+//  Created by Dan Engel on 9/6/23.
 //
 
 import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
-        }
-        .padding()
+        SearchView(viewModel: MoviesViewModel(movies: nil))
     }
 }
 

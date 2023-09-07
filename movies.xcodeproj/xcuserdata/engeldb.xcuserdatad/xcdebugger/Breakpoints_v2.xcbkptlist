@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "53255D68-FB93-4414-94F7-410E98AB9F49"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "56AB1267-A44C-4D1A-903E-52E561010675"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "movies/MoviesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "submitMovieRequest()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE5ACD67-3D50-47FE-9CF3-9753EF721D4A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "movies/MoviesViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getMovies()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CE5ACD67-3D50-47FE-9CF3-9753EF721D4A - ec7377517cdc6926"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "movies.MoviesViewModel.getMovies() -&gt; ()"
+                  moduleName = "movies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/engeldb/Documents/Projects/movies/movies/MoviesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "224">
+               </Location>
+               <Location
+                  uuid = "CE5ACD67-3D50-47FE-9CF3-9753EF721D4A - 1353b1a0706e789c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "movies.MoviesViewModel.getMovies() async throws -&gt; ()"
+                  moduleName = "movies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/engeldb/Documents/Projects/movies/movies/MoviesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "CE5ACD67-3D50-47FE-9CF3-9753EF721D4A - 532cb51d1febe20b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for movies.MoviesViewModel.getMovies() async throws -&gt; ()"
+                  moduleName = "movies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/engeldb/Documents/Projects/movies/movies/MoviesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "CE5ACD67-3D50-47FE-9CF3-9753EF721D4A - 1353b1a0706e789c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "movies.MoviesViewModel.getMovies() async throws -&gt; ()"
+                  moduleName = "movies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/engeldb/Documents/Projects/movies/movies/MoviesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "309">
+               </Location>
+               <Location
+                  uuid = "CE5ACD67-3D50-47FE-9CF3-9753EF721D4A - 532cb51d1febe20b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for movies.MoviesViewModel.getMovies() async throws -&gt; ()"
+                  moduleName = "movies"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/engeldb/Documents/Projects/movies/movies/MoviesViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "138">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
